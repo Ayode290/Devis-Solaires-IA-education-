@@ -33,7 +33,3 @@ En 2 min, l'utilisateur reçoit :
 
 ## 4. Lancer le projet en local
 ```bash
-git clone https://github.com/Ayode290/agent-solarquote.git
-cd agent-solarquote
-pip install -r requirements.txt
-streamlit run app.py
